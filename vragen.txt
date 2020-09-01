@@ -1,0 +1,44 @@
+In welke comic kwam the Black Panther voor het eerst voor?
+
+http://gateway.marvel.com/v1/public/characters?name=black panther&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+https://gateway.marvel.com:443/v1/public/characters/1009187/comics?orderBy=onsaleDate&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+------------------------------------------------------------------------------------------------
+
+Welke karakters kwamen er allemaal voor de in Secret Wars comic serie?
+
+https://gateway.marvel.com:443/v1/public/comics?titleStartsWith=secret wars&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+https://gateway.marvel.com:443/v1/public/comics/57620/characters?ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+------------------------------------------------------------------------------------------------
+
+
+Wat was de laatste comic waar Stan Lee aan heeft meegewerkt?
+
+https://gateway.marvel.com:443/v1/public/creators?lastName=lee&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+https://gateway.marvel.com:443/v1/public/creators/30/comics?ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+------------------------------------------------------------------------------------------------
+
+Hoeveel comics zijn gelinkt aan het event Spider-Verse?
+
+https://gateway.marvel.com:443/v1/public/events?name=Spider-Verse&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+------------------------------------------------------------------------------------------------
+
+Hoeveel comics hebben het issue nummer 202?
+
+https://gateway.marvel.com:443/v1/public/comics?issueNumber=202&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+------------------------------------------------------------------------------------------------
+
+In welke series komen beide Hulk en Wolverine voor?
+
+https://gateway.marvel.com:443/v1/public/characters?name=Wolverine&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+https://gateway.marvel.com:443/v1/public/characters?name=Hulk&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93
+
+https://gateway.marvel.com:443/v1/public/series?characters=1009718%2C1009351&ts=3&apikey=12fe50b74a35990a2e60389de618c144&hash=cf655219ae0b5145480936eaa5b20e93

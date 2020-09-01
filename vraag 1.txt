@@ -1,0 +1,3657 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2020 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+    "etag": "b0f0ba351b897c215e078dad2b998ebbb102f46c",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 645,
+        "count": 20,
+        "results": [
+            {
+                "id": 17466,
+                "digitalId": 0,
+                "title": "Marvel Masterworks: Captain America Vol. 2 (Hardcover)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-08-17T10:43:48-0400",
+                "isbn": "0-7851-1785-7",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Hardcover",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17466",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/17466/marvel_masterworks_captain_america_vol_2_hardcover?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/3298",
+                    "name": "Marvel Masterworks: Captain America Vol. 2 (0000 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7481",
+                        "name": "Captain America (1968) #100"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11338",
+                        "name": "Tales of Suspense (1959) #91"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11337",
+                        "name": "Tales of Suspense (1959) #90"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11335",
+                        "name": "Tales of Suspense (1959) #89"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11334",
+                        "name": "Tales of Suspense (1959) #88"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11330",
+                        "name": "Tales of Suspense (1959) #84"
+                    }
+                ],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5995aafce934b",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5995aafce934b",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+                            "name": "Stan Goldberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                            "name": "Syd Shores",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+                            "name": "Baron Zemo (Heinrich Zemo)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009320",
+                            "name": "Giant Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+                            "name": "Mole Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+                            "name": "Namor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "stories": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11942",
+                            "name": "The Other Iron Man!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11943",
+                            "name": "The Super-Adaptoid!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11954",
+                            "name": "Beyond All Rescue!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11955",
+                            "name": "If Bucky Lives..!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11957",
+                            "name": "The Monstrous Menace of the Mysterious Melter!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11958",
+                            "name": "Back From the Dead!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11966",
+                            "name": "The Golden Ghost!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11967",
+                            "name": "...And Men Shall Call Him Traitor!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11969",
+                            "name": "The Uncanny Challenge of the Crusher!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11970",
+                            "name": "The Last Defeat!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17455",
+                            "name": "This Monster Unmasked",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67668",
+                            "name": "MARVEL MASTERWORKS: CAPTAIN AMERICA VOL. 2 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 17487,
+                "digitalId": 0,
+                "title": "X-Men: The Complete Onslaught Epic Vol. 4 (2009)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2018-07-10T13:15:09-0400",
+                "isbn": "0-7851-2826-3",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17487",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/17487/x-men_the_complete_onslaught_epic_vol_4_2009?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/3319",
+                    "name": "X-Men: The Complete Onslaught Epic Vol. 4 (2009)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/57dae7fc9caf2",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 31,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+                            "name": "Bishop"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                            "name": "Black Widow"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+                            "name": "Cannonball"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+                            "name": "Crystal"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+                            "name": "Cyclops"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+                            "name": "Doctor Doom"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+                            "name": "Falcon"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+                            "name": "Gambit"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+                            "name": "Iceman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009380",
+                            "name": "Joseph"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+                            "name": "Mr. Fantastic"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/26051",
+                            "name": "ONSLAUGHT: MARVEL UNIVERSE (1996) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/26052",
+                            "name": "With Great Power ...",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67689",
+                            "name": "X-MEN: THE COMPLETE ONSLAUGHT EPIC VOL. 4 TPB 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17487/events",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 1
+                }
+            },
+            {
+                "id": 13258,
+                "digitalId": 4657,
+                "title": "Fantastic Four (1961) #52",
+                "issueNumber": 52,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-08-22T17:50:24-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/13258",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/13258/fantastic_four_1961_52?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Fantastic-Four-52/digital-comic/4657?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4657&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4657?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+                    "name": "Fantastic Four (1961 - 1998)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1966-07-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2015-03-10T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5372d7b815a17",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5372d7b815a17",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc379d2182c0",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13258/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                            "name": "Sam Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                            "name": "Joe Sinnott",
+                            "role": "inker"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13258/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+                            "name": "Thing"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13258/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13392",
+                            "name": "FANTASTIC FOUR (1961) #52",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13393",
+                            "name": "The Black Panther",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13258/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 13259,
+                "digitalId": 4658,
+                "title": "Fantastic Four (1961) #53",
+                "issueNumber": 53,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-11-10T13:47:30-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/13259",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/13259/fantastic_four_1961_53?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Fantastic-Four-53/digital-comic/4658?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4658&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4658?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+                    "name": "Fantastic Four (1961 - 1998)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15906",
+                        "name": "Fantastic Four Omnibus Vol. 2 (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1966-08-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2015-03-10T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5ab010b689a16",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/5ab010b689a16",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/4c890b4382978",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc379d723ee5",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13259/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                            "name": "Joe Sinnott",
+                            "role": "inker"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13259/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+                            "name": "Thing"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13259/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13394",
+                            "name": "FANTASTIC FOUR (1961) #53",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13395",
+                            "name": "The Way It Began",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13259/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 13260,
+                "digitalId": 4659,
+                "title": "Fantastic Four (1961) #54",
+                "issueNumber": 54,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-02-08T13:05:52-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/13260",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/13260/fantastic_four_1961_54?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Fantastic-Four-54/digital-comic/4659?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4659&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4659?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+                    "name": "Fantastic Four (1961 - 1998)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15906",
+                        "name": "Fantastic Four Omnibus Vol. 2 (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1966-09-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2015-03-10T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5372d6824fd77",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5372d6824fd77",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc379dc34d13",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13260/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                            "name": "Joe Sinnott",
+                            "role": "inker"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "characters": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13260/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+                            "name": "Medusa"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13260/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13396",
+                            "name": "FANTASTIC FOUR (1961) #54",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/13397",
+                            "name": "Whosoever Finds the Evil Eye",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/13260/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 8709,
+                "digitalId": 1888,
+                "title": "Fantastic Four Annual (1963) #5",
+                "issueNumber": 5,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2014-01-31T14:13:46-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 7,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/8709",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/8709/fantastic_four_annual_1963_5?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=1888&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2012",
+                    "name": "Fantastic Four Annual (1963 - 1994)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2055",
+                        "name": "Essential Fantastic Four Vol. 4 (Trade Paperback)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1335",
+                        "name": "Marvel Masterworks: The Fantastic Four Vol. 7 (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1967-11-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2008-10-31T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5ad8a893a57af",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5ad8a893a57af",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/8709/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                            "name": "Frank Giacoia",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                            "name": "Sam Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+                            "name": "Gaspar Saladino",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 21,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/8709/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009435",
+                            "name": "Alicia Masters"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+                            "name": "Black Bolt"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+                            "name": "Crystal"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+                            "name": "Doctor Doom"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+                            "name": "Galactus"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009324",
+                            "name": "Gorgon"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+                            "name": "Inhumans"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009385",
+                            "name": "Karnak"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009406",
+                            "name": "Lockjaw"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009411",
+                            "name": "Mad Thinker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+                            "name": "Medusa"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+                            "name": "Mr. Fantastic"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009511",
+                            "name": "Psycho-Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010334",
+                            "name": "Quasimodo"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+                            "name": "Silver Surfer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+                            "name": "Thing"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/8709/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15355",
+                            "name": "Fantastic Four Annual (1963) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15356",
+                            "name": "Divide and Conquer",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15357",
+                            "name": "This is a Plot?",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15358",
+                            "name": "The Incomparable Inhumans",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15359",
+                            "name": "The Greatest Array of Supporting Characters Ever Assembled in One Issue",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15360",
+                            "name": "[Welcome to the wonderful world of the Fantastic Four]",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15361",
+                            "name": "The Peerless Power of the Silver Surfer",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/190498",
+                            "name": "story from Fantastic Four Annual (1963) #5",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/8709/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 11344,
+                "digitalId": 3747,
+                "title": "Tales of Suspense (1959) #97",
+                "issueNumber": 97,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-31T09:06:12-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/11344",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/11344/tales_of_suspense_1959_97?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=3747&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+                    "name": "Tales of Suspense (1959 - 1968)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2001",
+                        "name": "MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 1 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-01-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-04-28T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/536d45a6013fb",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/536d45a6013fb",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11344/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+                            "name": "Gene Colan",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                            "name": "Frank Giacoia",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                            "name": "Joe Sinnott",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11344/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009711",
+                            "name": "Whiplash (Mark Scarlotti)"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "stories": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11344/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11988",
+                            "name": "Cover #11988",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11989",
+                            "name": "The Coming of...Whiplash",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11990",
+                            "name": "And So It Begins--!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154181",
+                            "name": "cover from Tales of Suspense (1959) #97",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154182",
+                            "name": "story from Tales of Suspense (1959) #97",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11344/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 11345,
+                "digitalId": 3748,
+                "title": "Tales of Suspense (1959) #98",
+                "issueNumber": 98,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-31T09:06:14-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/11345",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/11345/tales_of_suspense_1959_98?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=3748&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+                    "name": "Tales of Suspense (1959 - 1968)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2001",
+                        "name": "MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 1 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-02-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-04-28T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/536d45752f417",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/536d45752f417",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11345/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+                            "name": "Gene Colan",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                            "name": "Frank Giacoia",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                            "name": "Joe Sinnott",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11345/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+                            "name": "Baron Zemo (Heinrich Zemo)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+                            "name": "S.H.I.E.L.D."
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009711",
+                            "name": "Whiplash (Mark Scarlotti)"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "stories": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11345/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11991",
+                            "name": "Cover #11991",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11992",
+                            "name": "The Claws of the Panther",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11993",
+                            "name": "The Warrior and the Whip!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154183",
+                            "name": "cover from Tales of Suspense (1959) #98",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154184",
+                            "name": "story from Tales of Suspense (1959) #98",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11345/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 11346,
+                "digitalId": 3749,
+                "title": "Tales of Suspense (1959) #99",
+                "issueNumber": 99,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-01-31T09:06:15-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/11346",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/11346/tales_of_suspense_1959_99?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=3749&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+                    "name": "Tales of Suspense (1959 - 1968)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2001",
+                        "name": "MARVEL MASTERWORKS: THE INVINCIBLE IRON MAN VOL. 1 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-03-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-04-28T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/536f07e06823c",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/536f07e06823c",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11346/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+                            "name": "Gene Colan",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+                            "name": "Archie Goodwin",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                            "name": "Syd Shores",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11346/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+                            "name": "A.I.M."
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+                            "name": "Baron Zemo (Heinrich Zemo)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11346/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11994",
+                            "name": "Cover #11994",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11995",
+                            "name": "At the Mercy of the Maggia",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11996",
+                            "name": "The Man Who Lived Twice!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154185",
+                            "name": "cover from Tales of Suspense (1959) #99",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/154186",
+                            "name": "story from Tales of Suspense (1959) #99",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/11346/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7481,
+                "digitalId": 5354,
+                "title": "Captain America (1968) #100",
+                "issueNumber": 100,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-10-19T11:52:21-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7481",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7481/captain_america_1968_100?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Captain-America-100/digital-comic/5354?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=5354&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/5354?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+                    "name": "Captain America (1968 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2111",
+                        "name": "Marvel Masterworks: Captain America Vol. 2 (Hardcover)"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17466",
+                        "name": "Marvel Masterworks: Captain America Vol. 2 (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-04-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-03-18T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5994604e20b1e",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5994604e20b1e",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7481/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+                            "name": "Stan Goldberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                            "name": "Syd Shores",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7481/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+                            "name": "Baron Zemo (Heinrich Zemo)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009320",
+                            "name": "Giant Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+                            "name": "Namor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+                            "name": "Sharon Carter"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7481/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17454",
+                            "name": "Captain America (1968) #100",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17455",
+                            "name": "This Monster Unmasked",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7481/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7301,
+                "digitalId": 5198,
+                "title": "Avengers (1963) #51",
+                "issueNumber": 51,
+                "variantDescription": "",
+                "description": null,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7301",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7301/avengers_1963_51?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-51/digital-comic/5198?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=5198&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/5198?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-04-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/58657e710691e",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/58657e710691e",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc380d6bb587",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7301/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7301/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7301/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15162",
+                            "name": "AVENGERS (1963) #51",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15163",
+                            "name": "In the Clutches of the Collector",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7301/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7302,
+                "digitalId": 4219,
+                "title": "Avengers (1963) #52",
+                "issueNumber": 52,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2016-02-22T16:18:20-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7302",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7302/avengers_1963_52?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-52/digital-comic/4219?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4219&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4219?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-05-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/b0/586585072c333",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/b0/586585072c333",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4bc36dff9e776",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7302/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7302/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009328",
+                            "name": "Grim Reaper"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7302/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15164",
+                            "name": "AVENGERS (1963) #52",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15165",
+                            "name": "Death Calls for the Arch-Heroes",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7302/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7303,
+                "digitalId": 4871,
+                "title": "Avengers (1963) #53",
+                "issueNumber": 53,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2011-12-08T15:19:45-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7303",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7303/avengers_1963_53?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-53/digital-comic/4871?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4871&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4871?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-06-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-07-29T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/d0/5866720842525",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/d0/5866720842525",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc35857a4d0f",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7303/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7303/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+                            "name": "Cyclops"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+                            "name": "Magneto"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+                            "name": "Quicksilver"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+                            "name": "Scarlet Witch"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009673",
+                            "name": "Toad"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                            "name": "X-Men"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7303/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15166",
+                            "name": "AVENGERS (1963) #53",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15167",
+                            "name": "In Battle Joined",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7303/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7304,
+                "digitalId": 4220,
+                "title": "Avengers (1963) #54",
+                "issueNumber": 54,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2018-04-20T14:51:56-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7304",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7304/avengers_1963_54?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-54/digital-comic/4220?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4220&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4220?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-07-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e96f9eba545a",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4e96f9eba545a",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c890b3d4549c",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc36e04953ab",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7304/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                            "name": "John Buscema",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                            "name": "Roy Thomas",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1183",
+                            "name": "George Tuska",
+                            "role": "inker"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7304/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009390",
+                            "name": "Klaw"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009526",
+                            "name": "Radioactive Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+                            "name": "Ultron"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010348",
+                            "name": "Whirlwind"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7304/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15168",
+                            "name": "AVENGERS (1963) #54",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15169",
+                            "name": "...And Deliver Us from - - the Masters of Evil!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15170",
+                            "name": "",
+                            "type": "letters"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/187353",
+                            "name": "story from Avengers (1963) #54",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7304/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7305,
+                "digitalId": 4221,
+                "title": "Avengers (1963) #55",
+                "issueNumber": 55,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2020-04-11T09:10:17-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7305",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7305/avengers_1963_55?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-55/digital-comic/4221?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4221&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4221?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-08-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4e96fbc1e4a29",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4e96fbc1e4a29",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4de987ef924b5",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc36e098c87c",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7305/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7305/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+                            "name": "Ultron"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010348",
+                            "name": "Whirlwind"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7305/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15171",
+                            "name": "AVENGERS (1963) #55",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15172",
+                            "name": "Mayhem Over Manhattan",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7305/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7306,
+                "digitalId": 4222,
+                "title": "Avengers (1963) #56",
+                "issueNumber": 56,
+                "variantDescription": "",
+                "description": "Captain America must re-live the most painful memory from his past; the death of Bucky Barnes. The Avengers team reunites with Cap, and discovers Dr. Doom’s time machine.",
+                "modified": "2019-06-04T13:45:47-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [
+                    {
+                        "type": "issue_solicit_text",
+                        "language": "en-us",
+                        "text": "Captain America must re-live the most painful memory from his past; the death of Bucky Barnes. The Avengers team reunites with Cap, and discovers Dr. Doom’s time machine."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7306",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7306/avengers_1963_56?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-56/digital-comic/4222?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4222&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4222?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-09-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/4e96fd7967b6f",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/4e96fd7967b6f",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc36e0f895b4",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7306/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7306/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009211",
+                            "name": "Bucky"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010780",
+                            "name": "Zemo"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7306/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15173",
+                            "name": "AVENGERS (1963) #56",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15174",
+                            "name": "Death Be Not Proud",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7306/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 6934,
+                "digitalId": 4177,
+                "title": "Avengers Annual (1967) #2",
+                "issueNumber": 2,
+                "variantDescription": "",
+                "description": null,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 68,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/6934",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/6934/avengers_annual_1967_2?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-Annual-2/digital-comic/4177?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4177&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4177?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1988",
+                    "name": "Avengers Annual (1967 - 1994)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-09-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2008-09-17T00:00:00-0400"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-09-02T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4f6758b134276",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4f6758b134276",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc36d2eeb25a",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/6934/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                            "name": "John Buscema",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+                            "name": "Don Heck",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+                            "name": "Werner Roth",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+                            "name": "Vince Colletta",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                            "name": "Frank Giacoia",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+                            "name": "Joe Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                            "name": "Roy Thomas",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "characters": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/6934/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+                            "name": "Hercules"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+                            "name": "Quicksilver"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "stories": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/6934/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17404",
+                            "name": "AVENGERS ANNUAL (1967) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17405",
+                            "name": "And Time, the Rushing River",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17406",
+                            "name": "HANG LOOSE, HEROES! ...Stan and the Gang",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17407",
+                            "name": "Avenjerks Assemble",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/187514",
+                            "name": "story from Avengers Annual (1967) #2",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/6934/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7307,
+                "digitalId": 4223,
+                "title": "Avengers (1963) #57",
+                "issueNumber": 57,
+                "variantDescription": "",
+                "description": "Mr. Hyde thinks he's tough, and he is - maybe even tough enough to fight the Avengers! But a greater power threatens the Earth itself, which suddenly has a lot fewer people on it!",
+                "modified": "2017-08-16T15:37:57-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [
+                    {
+                        "type": "issue_preview_text",
+                        "language": "en-us",
+                        "text": "Mr. Hyde thinks he's tough, and he is - maybe even tough enough to fight the Avengers! But a greater power threatens the Earth itself, which suddenly has a lot fewer people on it!"
+                    },
+                    {
+                        "type": "70th_winner_desc",
+                        "language": "en-us",
+                        "text": "Behold! The Vision appears suddenly from the mist, towering over the Avengers in this captivating cover by John Buscema."
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7307",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7307/avengers_1963_57?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-57/digital-comic/4223?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4223&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4223?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-10-01T00:00:00-0400"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4e96fe30c0e1c",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4e96fe30c0e1c",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc36e145a84d",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7307/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                            "name": "John Buscema",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1449",
+                            "name": "George Klein",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                            "name": "Sam Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                            "name": "Roy Thomas",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7307/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+                            "name": "Ultron"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+                            "name": "Vision"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7307/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15175",
+                            "name": "AVENGERS (1963) #57",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15176",
+                            "name": "Behold, the Vision",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/187355",
+                            "name": "story from Avengers (1963) #57",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7307/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7308,
+                "digitalId": 4224,
+                "title": "Avengers (1963) #58",
+                "issueNumber": 58,
+                "variantDescription": "",
+                "description": "The world's leaders have disappeared, and only the Avengers can guide Earth out of chaos! But the path leads to an extradimensional realm ruled by an unexpected adversary!",
+                "modified": "2014-05-28T16:21:24-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [
+                    {
+                        "type": "issue_preview_text",
+                        "language": "en-us",
+                        "text": "The world's leaders have disappeared, and only the Avengers can guide Earth out of chaos! But the path leads to an extradimensional realm ruled by an unexpected adversary!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7308",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7308/avengers_1963_58?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-58/digital-comic/4224?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=4224&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/4224?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+                        "name": "MARVEL MASTERWORKS: THE AVENGERS VOL. 6 HC (Hardcover)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-11-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-11-13T00:00:00-0500"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/4e96feecb36f3",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/04/4e96feecb36f3",
+                        "extension": "jpg"
+                    },
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc36e1951c5d",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7308/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                            "name": "John Buscema",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1449",
+                            "name": "George Klein",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                            "name": "Sam Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                            "name": "Roy Thomas",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7308/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+                            "name": "Vision"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7308/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15177",
+                            "name": "AVENGERS (1963) #58",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15178",
+                            "name": "Even an Android Can Cry",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/187356",
+                            "name": "story from Avengers (1963) #58",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7308/events",
+                    "items": [],
+                    "returned": 0
+                }
+            },
+            {
+                "id": 7309,
+                "digitalId": 5206,
+                "title": "Avengers (1963) #59",
+                "issueNumber": 59,
+                "variantDescription": "",
+                "description": "Yellowjacket and the Wasp, trapped in extradimensional torment! To rescue them, the Avengers must appeal to a cosmic entity's good side...literally!",
+                "modified": "2015-09-15T13:54:13-0400",
+                "isbn": "",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Comic",
+                "pageCount": 36,
+                "textObjects": [
+                    {
+                        "type": "issue_preview_text",
+                        "language": "en-us",
+                        "text": "Yellowjacket and the Wasp, trapped in extradimensional torment! To rescue them, the Avengers must appeal to a cosmic entity's good side...literally!"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7309",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/7309/avengers_1963_59?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Avengers-59/digital-comic/5206?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=5206&utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/5206?utm_campaign=apiRef&utm_source=12fe50b74a35990a2e60389de618c144"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                    "name": "Avengers (1963 - 1996)"
+                },
+                "variants": [],
+                "collections": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1672",
+                        "name": "Marvel Weddings (Trade Paperback)"
+                    }
+                ],
+                "collectedIssues": [],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "1968-12-01T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "unlimitedDate",
+                        "date": "2007-04-28T00:00:00-0400"
+                    },
+                    {
+                        "type": "digitalPurchaseDate",
+                        "date": "2014-08-26T00:00:00-0400"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    },
+                    {
+                        "type": "digitalPurchasePrice",
+                        "price": 1.99
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc3277204f7f",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc3277204f7f",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7309/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                            "name": "John Buscema",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1449",
+                            "name": "George Klein",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                            "name": "Sam Rosen",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                            "name": "Roy Thomas",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "characters": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7309/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                            "name": "Hawkeye"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009372",
+                            "name": "J. Jonah Jameson"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+                            "name": "Vision"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "stories": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7309/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15179",
+                            "name": "AVENGERS (1963) #59",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/15180",
+                            "name": "The Name is Yellowjacket",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/187357",
+                            "name": "story from Avengers (1963) #59",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/7309/events",
+                    "items": [],
+                    "returned": 0
+                }
+            }
+        ]
+    }
+}
